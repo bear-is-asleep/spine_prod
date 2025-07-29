@@ -11,11 +11,11 @@ fi
 export MLPROD_CFGDIR=$MLPROD_BASEDIR/config
 
 # Define path to SPINE
-export SPINE_BASEDIR=/sdf/data/neutrino/software/spine
+export SPINE_BASEDIR=/sdf/group/neutrino/bearc/sbnd_dev_250630/spine
 
 # Define path to OpT0Finder
 #export FMATCH_BASEDIR=/sdf/data/neutrino/software/OpT0Finder_legacy
-export FMATCH_BASEDIR=/sdf/data/neutrino/software/OpT0Finder
+export FMATCH_BASEDIR=/sdf/group/neutrino/bearc/sbnd_dev_250630/OpT0Finder
 
 # Define path to the singularity container
 #export SINGULARITY_PATH=/sdf/group/neutrino/images/larcv2_ub20.04-cuda11.6-pytorch1.13-larndsim.sif
